@@ -3,4 +3,4 @@ Repositório criado para o desafio
 
 
 ## Links Úteis
-[Sintaxe básica Marckdown] (https://www.markdownguide.org/getting-started/)
+[Sintaxe básica Marckdown](https://www.markdownguide.org/getting-started/)
